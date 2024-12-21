@@ -7,6 +7,8 @@ import { useEffect} from 'react';
 import { useDispatch } from 'react-redux';
 import { useSelector } from 'react-redux';
 import { setDataProduct } from './redux/productSlice';
+import 'font-awesome/css/font-awesome.min.css';
+
 function App() {
 
    const dispatch = useDispatch()

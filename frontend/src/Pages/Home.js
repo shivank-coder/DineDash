@@ -116,7 +116,7 @@ const Home = () => {
       </div>
 
       <AllProduct heading={"Your Product"} />
-      <Footer />
+   
     </div>
   );
 };
